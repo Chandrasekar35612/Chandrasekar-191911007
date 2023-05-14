@@ -1,0 +1,41 @@
+now run urself bro will check then will explain what i have done it in code
+ bro how do u open jupyter
+go to coder then type cmd in addess bar l
+k bro this is how u have to run rest of the codes
+
+here i have taken kdd dataset for detecting u2r attack
+this dataset consist of all the datas that r relatedt to the ddos ,u2r and etc..
+
+
+afterer that we need to perform data preprocessing in orderto remove null and duplicate values from the datasset 
+
+after that we need to analysis fdataset in order to understand what kind of dta our dtaset contains
+
+later need to extract features from the dataset because this dataset contains data for all attacks here we need to predict only u2r attack
+
+tehn nedd to split that feaures into trinng and testing set this will 70:30 aspect
+
+
+then we need to load training data into classification algorithm in order to nialize the trianing process
+
+
+then need to test model with test data in order to get efficiency
+
+based on that test result only we were evaluating our model accuracy
+
+thats the accuracy graph ploted in our code
+
+k bro ths same for all codes except algorithms
+
+
+k
+any doubt 
+
+once check dataset also k
+ 
+k bro  
+will the code only run on jupyter or can we use idle or pylab?
+jupyter notebook because i installed packages locally
+k bro
+shall i leave
+s bro thank u
